@@ -1,16 +1,10 @@
 {
-  "name": "Bootstrap-Admin-Theme",
-  "version": "1.0.0",
-  "homepage": "https://github.com/dzoudzou/Bootstrap-Admin-Theme",
-  "authors": [
-    "Jozef Hrncar <jozef@hrncar.eu>"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "Bootstrap-Admin-Theme",
+    "version": "1.0.0",
+    "main": ["assets/styles.css", "assets/scripts.js"],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "components"
+    ]
 }
